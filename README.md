@@ -3,7 +3,7 @@ A carnival experience in virtual reality for the Oculus Rift
 ![alt text](https://github.com/jkane002/CarnivalGamesVR/blob/master/img/carnival.png "Bird's Eye View")
 
 # Main Screen
-![alt text](https://github.com/jkane002/CarnivalGamesVR/blob/master/img/image2.png=100x20)
+![alt text](https://github.com/jkane002/CarnivalGamesVR/blob/master/img/image2.png =100x20)
 
 ## Ball Toss
 ![alt text](https://github.com/jkane002/CarnivalGamesVR/blob/master/img/balltoss.png=100x20)
