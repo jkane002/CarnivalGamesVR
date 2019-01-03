@@ -8,7 +8,7 @@ A carnival experience in virtual reality for the Oculus Rift<br>
 
 
 ## Ball Toss
-The player throws the ball into 6 distinct buckets to gain points for prizes.<br>
+The player throws the ball into 5 distinct buckets to gain points for prizes.<br>
 <img src="https://github.com/jkane002/CarnivalGamesVR/blob/master/img/balltoss.png"  width="400"/>
 
 
