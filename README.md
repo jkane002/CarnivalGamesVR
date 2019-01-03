@@ -1,5 +1,5 @@
 # CarnivalGamesVR
-A carnival experience in virtual reality for the Oculus Rift
+A carnival experience in virtual reality for the Oculus Rift<br>
 <img src="https://github.com/jkane002/CarnivalGamesVR/blob/master/img/carnival.png"  width="200"/>
 
 
