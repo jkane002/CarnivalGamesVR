@@ -8,12 +8,15 @@ A carnival experience in virtual reality for the Oculus Rift<br>
 
 
 ## Ball Toss
-The player throws the ball into 5 distinct buckets to gain points for prizes.<br>
+The player picks up the ball from the ball stand and throws it into 5 distinct buckets to gain points for prizes.<br>
+Rectangular section: 1 point<br>
+Yellow rings: 5 points<br>
+Green ring: 10 points<br>
 <img src="https://github.com/jkane002/CarnivalGamesVR/blob/master/img/balltoss.png"  width="400"/>
 
 
 ## Bottle Knockout
-There are three sets of bottles each with a corresponding color associated to them. The player must remember the sequence in which the colors light up and drop the set of milk bottles in that order.<br>
+There are three sets of bottles each with a corresponding color associated to them. The player must remember the sequence in which the colors light up and drop the entire set of milk bottles in that order.<br>
 <img src="https://github.com/jkane002/CarnivalGamesVR/blob/master/img/image4.png"  width="400"/>
 <img src="https://github.com/jkane002/CarnivalGamesVR/blob/master/img/image1.png"  width="400"/>
 
